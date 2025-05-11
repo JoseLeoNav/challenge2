@@ -29,3 +29,13 @@ El costo de envío promedio revela que la **tienda número 1** incurre en un gas
 ## 7. Conclusión
 
 Con base en los indicadores analizados, se recomienda proceder con la **venta de la tienda número 4**. Esta tienda presenta deficiencias en **dos áreas clave**: bajos ingresos totales y calificación promedio de clientes. Su continuidad representa más una pérdida que un beneficio para la operación general del negocio. Vender esta tienda permitiría destinar recursos a un nuevo emprendimiento con mayor potencial de crecimiento y rentabilidad.
+
+## Herramientas Utilizadas para este análisis.
+
+Python: Lenguaje de programación utilizado para el análisis de datos.
+
+Pandas: Librería de Python para la manipulación y análisis de datos.
+
+Matplotlib: Librería de Python para la visualización de datos.
+
+Google Colab: Entorno de desarrollo en la nube utilizado para ejecutar el análisis.
